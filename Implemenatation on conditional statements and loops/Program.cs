@@ -119,7 +119,10 @@ namespace Implemenatation_on_conditional_statements_and_loops
             //this is done for pull for sends the data from remote to local//
 
 
-            //this for merge conflict//
+           // this is for merge conflict for master branch//
+
+
+
 
         }
     }
