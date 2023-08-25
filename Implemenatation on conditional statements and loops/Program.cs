@@ -67,18 +67,18 @@ namespace Implemenatation_on_conditional_statements_and_loops
 
 
 
-         /*       int i = 0;
-                 for(; ; )
-                 {
-                if (i < 5)
-                {
-                    Console.WriteLine(i);
-                }
-                else
-                    break;
-                i++;
-                
-                 }   */
+            /*       int i = 0;
+                    for(; ; )
+                    {
+                   if (i < 5)
+                   {
+                       Console.WriteLine(i);
+                   }
+                   else
+                       break;
+                   i++;
+
+                    }   */
 
 
 
@@ -90,25 +90,25 @@ namespace Implemenatation_on_conditional_statements_and_loops
 
 
 
-         /*     int a = 5;
-               while (a==5)
-               {
-                   Console.WriteLine("hello");
-                   break;
-               }  */
+            /*     int a = 5;
+                  while (a==5)
+                  {
+                      Console.WriteLine("hello");
+                      break;
+                  }  */
 
 
 
-         /*     int a = 32;
+            /*     int a = 32;
 
-              do
-              {
-                  Console.WriteLine(a);
-                  a++;
-                if (a > 35)
-                    break;
-              } 
-              while (true);   */
+                 do
+                 {
+                     Console.WriteLine(a);
+                     a++;
+                   if (a > 35)
+                       break;
+                 } 
+                 while (true);   */
 
 
 
@@ -116,7 +116,10 @@ namespace Implemenatation_on_conditional_statements_and_loops
 
 
 
-             //this is done for pull for sends the data from remote to local//
+            //this is done for pull for sends the data from remote to local//
+
+
+            //this for merge conflict//
 
         }
     }
