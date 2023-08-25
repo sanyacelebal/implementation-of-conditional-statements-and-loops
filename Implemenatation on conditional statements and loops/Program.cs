@@ -112,7 +112,7 @@ namespace Implemenatation_on_conditional_statements_and_loops
 
 
 
-            
+            // this is done for push for sends the data from local to remote//
 
         }
     }
